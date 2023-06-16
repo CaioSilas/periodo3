@@ -1,0 +1,9 @@
+3
+O Alquimista
+Paulo Coelho;Ze da Silva
+1988
+Portugues
+ficcao;romance;alquimia
+A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P
+10.8
+wav

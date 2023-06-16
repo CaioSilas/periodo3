@@ -1,0 +1,5 @@
+1234  joao                       F
+5678  carlos                     C
+9101  ricardo                    A
+9876  emanuel                    R
+5432  mariana                    B
